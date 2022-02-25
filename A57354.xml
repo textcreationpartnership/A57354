@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the Cathedral of Norwich upon the annual solemnity of the Mayors admission to his office, being June 17, 1679 by B. Rively ...</title>
+            <author>Riveley, Benedict, 1627 or 8-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57354</idno>
+            <idno type="STC">Wing R1549</idno>
+            <idno type="STC">ESTC R428</idno>
+            <idno type="EEBO-CITATION">12685978</idno>
+            <idno type="OCLC">ocm 12685978</idno>
+            <idno type="VID">65769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 367:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the Cathedral of Norwich upon the annual solemnity of the Mayors admission to his office, being June 17, 1679 by B. Rively ...</title>
+                  <author>Riveley, Benedict, 1627 or 8-1695.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Samuel Lownds and are to be sold at his shop ...,</publisher>
+                  <pubPlace>In the Savoy :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the request and with the leave of all his superiors in that place"</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Job XXX, 23 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Election sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_pages">
+            <pb facs="tcp:65769:1"/>
+            <pb facs="tcp:65769:1" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D at the Cathedral of Norwich, UPON THE <hi>Annual Solemnity</hi> OF THE Mayors Admiſion to his Office, being <hi>June</hi> 17. 1679.</p>
+            <p>By <hi>B. Rively,</hi> Curate of S<hi rend="sup">t</hi>. <hi>Andrews</hi> Pariſh in the ſaid CITY.</p>
+            <p>
+               <hi>Publiſhed at the Requeſt, and with the Leave of all his Superiors in that Place.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<bibl>1. Pet. 3. 14.</bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<bibl>1. Pet. 3. 14.</bibl>
+            </q>
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>T. N.</hi> for <hi>Samnel Lownds,</hi> and are to be ſold at his Shop over againſt <hi>Exeter-Exchange</hi> in the <hi>Strand.</hi> MDCLXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65769:2"/>
+            <pb n="1" facs="tcp:65769:2"/>
+            <head>A SERMON, PREACH'D at the <hi>CATHEDRAL</hi> of <hi>NORWICH,</hi>
+            </head>
+            <head type="sub">Upon the Annual Solemnity of the Mayor's Admiſſion to his Office, being <date>
+                  <hi>June</hi> 17. 1679.</date>
+            </head>
+            <epigraph>
+               <bibl>Rom the 13<hi rend="sup">th</hi>. Verſ. the 14<hi rend="sup">th</hi>.</bibl>
+               <q>For he beareth not the Sword in vain.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hatever ſome miſopineing and miſpractiſing Chriſti<g ref="char:EOLhyphen"/>ans of late have Taught the World to the con<g ref="char:EOLhyphen"/>trary, there can be no Greater Friend to Civil Government (whether Supream or Subordinate) than <hi>Chriſtian Religion</hi> is.</p>
+            <p>And, for Proof of it, if all other parts of
+<pb n="2" facs="tcp:65769:3"/>
+the <hi>New Teſtament</hi> were ſilent, the Five firſt Verſes of this Chapter would be ſuffici<g ref="char:EOLhyphen"/>ent.</p>
+            <p>In the whole Diſcourſe you have Two Generals,</p>
+            <list>
+               <item>1. ſtrict and univerſally concerning <hi>Precept:</hi> And,</item>
+               <item>2. Mighty ſtrong <hi>Arguments</hi> to back it.</item>
+            </list>
+            <p>The <hi>Precept</hi> is in the firſt words of the Chapters; <hi>Let every Soul be ſubject to the higher Powers:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Au<g ref="char:EOLhyphen"/>thorities ſet over them; <hi>Civil</hi> Authorities having <hi>jus gladii,</hi> as in my Text: 'Twas here the <hi>Roman</hi> Emperor, and his Lieute<g ref="char:EOLhyphen"/>nants (for the word is taken for the Per<g ref="char:EOLhyphen"/>ſons of Governors as well as for their Power.) To theſe every Soul is by the Chriſtian A<g ref="char:EOLhyphen"/>poſtle enjoyned Subjection.</p>
+            <p>'Tis a <hi>Catholick Precept,</hi> and given to the <hi>Roman Chriſtians</hi> (whether under <hi>Clau<g ref="char:EOLhyphen"/>dius</hi> or <hi>Nero,</hi> 'tis not material for they were both Perſecutors) and, therefore, how any that boaſt themſelves. <hi>Catholick,</hi> and own themſelves of the <hi>Romiſh Communion</hi> (yet
+<pb n="3" facs="tcp:65769:3"/>
+living under a very <hi>Conſtantine,</hi> and <hi>Theo<g ref="char:EOLhyphen"/>doſius)</hi> can Evade the Force of it, I un<g ref="char:EOLhyphen"/>derſtand not.</p>
+            <p>Again, 'tis a Precept of the <hi>Chriſtian Religion</hi> given to the firſt <hi>Chriſtians</hi> by an Eminent <hi>Apoſtle</hi> and Diſſeminator of that Religion; and therefore how any that pre<g ref="char:EOLhyphen"/>tend to that Name, eſpecially ſuch as do it more Nicely, and Separately then the reſt of their Brethren, ſhould be made to bog<g ref="char:EOLhyphen"/>gle at it, I do as little underſtand as I did before. Yet ſo it is; As <hi>Catholick</hi> as it is, there are whole Orders of Men in the <hi>Ro<g ref="char:EOLhyphen"/>miſh Church,</hi> that think themſelves uncon<g ref="char:EOLhyphen"/>cerned with it: And as <hi>Chriſtian</hi> as it is, there were of old, and are ſtill, whole Sects and Parties of Men in the purer part of the Chriſtian Church, that ſeek to elude and baffle it.</p>
+            <p>Therefore, 'tis well our Divine <hi>Author</hi> doth not barely propound it, but enforces it with ſtrong Reaſons, which I come next to conſider.</p>
+            <p>1. The firſt Argument for this Univerſal Subjection to Civil Government is drawn from its Divine Original: <hi>For, there is no power but of God; and, the powers that be are ordain'd of God,</hi> Verſ. 1.</p>
+            <p>
+               <pb facs="tcp:65769:4"/>
+               <pb facs="tcp:65769:4"/>
+               <pb n="4" facs="tcp:65769:5"/>Here, not only Power in general, but the particular Order and Polity of it, whe<g ref="char:EOLhyphen"/>ther in the hand of a <hi>Nero,</hi> or a <hi>Conſtantine</hi>—in a Supream or a Subordinate is made to be a Sacred Inſtitution. There is an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, both in the words, whereby it is aſſerted, not onely to derive from God, as the firſt mover, and higheſt principle in the rank of Beings; but, to come of God too as the efficient cauſe; And there<g ref="char:EOLhyphen"/>fore diſobedience on this account muſt needs be the more Criminal, as being up<g ref="char:EOLhyphen"/>on the matter a fighting againſt God, a ruſſling and perturbing the Order and ap<g ref="char:EOLhyphen"/>pointment of Heaven.</p>
+            <p>2. Argument; from the ſin, and dan<g ref="char:EOLhyphen"/>ger of reſiſtance, <hi>verſ. 2. Whoſoever there<g ref="char:EOLhyphen"/>fore reſiſteth the Power, reſiſteth the Ordi<g ref="char:EOLhyphen"/>nance of God, and incurs Damnation.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Tis reſiſtance of the Ordinance of God, and ſo 'tis a ſin; for, ſin in its pr per nature is the tranſgreſſion of a Law; and, 'tis the greater ſin, becauſe againſt a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Living Law, for ſo the Magi<g ref="char:EOLhyphen"/>ſtrate is; 'tis againſt Gods Image, as well as his Word.</p>
+            <p>Againſt the Power of God in the hand of Man; Tis all one who Commands,
+<pb n="5" facs="tcp:65769:5"/>
+God's Word, or God's Vicegerent, pro<g ref="char:EOLhyphen"/>vided he commands nothing contrary to that Word.</p>
+            <p>This Conſideration at once invites Obedience, and aggravates Diſobedience: Beſides,</p>
+            <p>2. A perſon ſo ſinning, incurs damna<g ref="char:EOLhyphen"/>tion, which is a mighty danger: the moſt terrible thing within the compaſs of hu<g ref="char:EOLhyphen"/>man apprehenſion—importing, not on<g ref="char:EOLhyphen"/>ly temporal puniſhment, but, without re<g ref="char:EOLhyphen"/>pentance, eternal too. And if fear be one of the moſt operative paſſions in the Hu<g ref="char:EOLhyphen"/>man Soul, what ſhould ſo juſt a cauſe of it produce?</p>
+            <p>3. Argument from the end, and uſe of Government, in reſpect both of good and evil men, <hi>ver 3. 4. For Magiſtrates are not to be feared for good works, but for evil; Wilt thou then be without fear of the power? do well: ſo ſhalt thou have praiſe of the ſame: For he is the Miniſter of God for they wealth: but if thou do evil, fear: for he beareth not the ſword for nought: for he is the Miniſter of God, to take vengeance on him that doeth evil.</hi> As if he had ſaid 't vere a huge mi<g ref="char:EOLhyphen"/>ſtake to imagine that Kings, and Gover<g ref="char:EOLhyphen"/>nors were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Vain and empty
+<pb n="6" facs="tcp:65769:6"/>
+names, of no benefit or ſervice in the Com<g ref="char:EOLhyphen"/>mon-wealth. For how ſhould Vice re<g ref="char:EOLhyphen"/>ceive its condigne puniſhment, or Virtue come by its proper Guerdon and Reward, but this way? How ſhould the publick Peace be preſerved, the common Good be maintained, or particular Rights be defend<g ref="char:EOLhyphen"/>ed, but this way? Better ſet under a Bramble-buſh than have no ſhelter at all. It was better with <hi>Iſrael</hi> under <hi>Abimelech,</hi> than when there was no Magiſtrate in the Land, to put them to ſhame in any thing.</p>
+            <p>Let Governors be what they will as to their perſonal faults; Foxes as <hi>Herod;</hi> Li<g ref="char:EOLhyphen"/>ons as <hi>Nero,</hi> yet by the deſigne of their Place and Office, they are the Miniſters of God to men for their good. Gods Sword bearers towards evil-doers, and Gods Shield<g ref="char:EOLhyphen"/>bearers towards them that do well: There<g ref="char:EOLhyphen"/>fore for them that ſhould be Subjects, un<g ref="char:EOLhyphen"/>der what pretence ſoever, to caſt off all aw and regard to Authority, to turn Muti<g ref="char:EOLhyphen"/>nous, Rebellious, or Seditious, and to lift up a Battoon of popular fury againſt this Sword of regular juriſdiction, is to ſpoil and defeat the moſt wiſe and experien<g ref="char:EOLhyphen"/>ced Inſtrument of Good, that ever was in the world.</p>
+            <p>
+               <pb n="7" facs="tcp:65769:6"/>4. Argument from the neceſſity of ſubjection, and the nature of that neceſſi<g ref="char:EOLhyphen"/>ty, <hi>ver. 5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c</hi> wherefore ye muſt needs be ſubject, and that not only for wrath, but alſo for conſcience ſake; as much as to ſay, 'Tis not a point of in lif<g ref="char:EOLhyphen"/>ferency, and arbitrary Choice that I am now upon, but of neceſſary Duty, ſuch as you cannot handſomly avoid, nor can any company of men in the world, con<g ref="char:EOLhyphen"/>ſulting to make a Law againſt it, poſſi<g ref="char:EOLhyphen"/>bly render it null, or abſolve you from it.</p>
+            <p>'Tis a practice we are held to, by a Bond that nothing can untie, even by Conſci<g ref="char:EOLhyphen"/>ence, and that both natural and enlight<g ref="char:EOLhyphen"/>ned. Reaſon and Revelation guide and hold us to it. 'Tis not only a pruden<g ref="char:EOLhyphen"/>tial thing, to live in ſubjection to them that are ſet over us in the Lord, as we would avoid the puniſhment threatned to reſiſtance, in the verſe foregoing; but 'tis a chief part of our Integrity and Con<g ref="char:EOLhyphen"/>ſcience, both as we are honeſt men, and good Chriſtians. And by the way, this is worthy of ſerious conſideration to ſuch as would pretend conſcience againſt obe<g ref="char:EOLhyphen"/>dience to Governors in ſuch Caſes, wherein
+<pb n="8" facs="tcp:65769:7"/>
+they have a power to Command.—But I forbear going further at this general rate; Thus much was neceſſary to find out where the words of my Text are; they are part of the Argument fetcht from the uſe and end of Civil Government, as it relates either to good or evil men; and they have (as you ſee) coherence with the antecedent and ſubſequent part of the A<g ref="char:EOLhyphen"/>poſtles diſcourſe, and are as efficacious to<g ref="char:EOLhyphen"/>wards the preſſing of the primary Injun<g ref="char:EOLhyphen"/>ction of Subjection and Obedience as any of the others, and ſo I ſhall handle them under this propoſition, or principal head, <hi>viz.</hi> That Civil Government is by no means to be counted a vain and uſeleſs thing in the world—for ſo much the words do naturally import, though they be concretively expreſt, and only with reference (as ſome think) to the coercive part of the Magiſtrates Office.</p>
+            <p>
+               <hi>He beareth not the ſword in vain.</hi> The (<hi>He</hi>) in my Text is the Power, the <hi>Po<g ref="char:EOLhyphen"/>teſtas,</hi> in ver. foregoing, <hi>Wilt thou not be a<g ref="char:EOLhyphen"/>fraid of the power, do that which is,</hi> &amp;c <hi>for he is,</hi> &amp;c. So that the power is ſpoken of, as veſted in ſome ſubject, and the Power,
+<pb n="9" facs="tcp:65769:7"/>
+and the Impowered mutually ſuppoſe one another.</p>
+            <p>And then for the (<hi>Sword</hi>) I take it to be comprehenſive of the whole power, the <hi>Jus vitae,</hi> as well as <hi>Necis,</hi> and a Sym<g ref="char:EOLhyphen"/>bol of the defence of the virtuous, as well as of the offence of the vicious: And e<g ref="char:EOLhyphen"/>ſpecially when our Apoſtle expreſſeth both for the praiſe of, <hi>&amp;c.</hi> as well as for the puniſhment of, <hi>&amp;c.</hi> and when he ſpeaks not of drawingthe Sword, but of bearing it:—'Tis not amiſs ſo to under<g ref="char:EOLhyphen"/>ſtand it.</p>
+            <p>This then I ſhall endeavour to make good upon this occaſion—That Magi<g ref="char:EOLhyphen"/>ſtratical power, whereever it is lodged, either in the Prince or his Deputy, is not a vain or empty thing</p>
+            <list>
+               <item>1. 'Tis not ſo in its Inſtitution and de<g ref="char:EOLhyphen"/>ſigne.</item>
+               <item>2. It ought not to be ſo in its execution and effect. The Firſt will evince the Do<g ref="char:EOLhyphen"/>ctrine, and the Second will apply it, and both will abſolve my preſent undertaking.</item>
+            </list>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Firſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.—Magiſtrati<g ref="char:EOLhyphen"/>cal power is not a vain thing in its Inſti<g ref="char:EOLhyphen"/>tution and Deſigne, becauſe 'tis neither
+<pb n="10" facs="tcp:65769:8"/>
+without Author nor End, and they both ſuch as will abundantly excuſe it from va<g ref="char:EOLhyphen"/>nity: for it hath God for its Founder, and it ſerves very uſeful and neceſſary pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p>Firſt, it hath God for its Founder, ſo far it is from having no Author at all (which is one notion of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in my Text) that it hath the beſt Author of all. He that is the only wiſe God, and the God of Order, that can do nothing amiſs, and has done all things well, is in another ſtile called the <hi>Bleſſed and only Potentate,</hi> and <hi>the King of Kings, and the Lord of Lords.</hi> 1 Tim. 6. 15. that is—the Source of all governing Power, whence all other pow<g ref="char:EOLhyphen"/>ers derive. For theſe words muſt be un<g ref="char:EOLhyphen"/>derſtood as the following, as he only hath in <hi>ver. 16. God is the only Potentate, Immor<g ref="char:EOLhyphen"/>tality,</hi> i. e. originally and fundamentally. 'Tis true, Angels, and the Souls of men are immortal, but 'tis by dependance and de<g ref="char:EOLhyphen"/>rivation from God; and from the ſame Fountain, come theſe ſeveral Authorities, and great Commands of Men in the world. <hi>David</hi> deſcribes this moſt Divinely in 1 <hi>Chro. 29. 11, 12. Thine O Lord, is the greatneſs,
+<pb n="11" facs="tcp:65769:8"/>
+and the Power, and the Glory, and the Victory, and the Majeſty, for all that is in Heaven and Earth is thine, thine is the Kingdom O Lord, and thou art exalted as head above all: both Riches and Honor come of thee, and thou reigneſt over all, and in thine hand is power and might, and in thine hand it is to make great, and to give ſtrength unto all.—Solomon</hi> alſo ſaith the ſame thing. <hi>Prov. 8. 15, 16. By me Kings Reign, and Princes decree Juſtice; By me Princes rule and Nobles, even all the Judges of the earth</hi>
+            </p>
+            <p>Beſides, what other ſence can you make of that general and familiar Title of the Kings of <hi>Iſrael?</hi>—The Lords anointed.—or of <hi>Cyrus</hi> and <hi>Nebuchadnezzar,</hi> Heathen Princes being called God's ſervants, as they are ſeveral times in Scripture.</p>
+            <p>Moreover, our bleſſed Lord himſelf au<g ref="char:EOLhyphen"/>thorizes this Doctrine in <hi>Jo. 19.</hi> 11. where he looks through the Perſon of <hi>Pilate</hi> to his Power (as he confeſſeth) given him from above. And in <hi>Jo. 10. 34, 35.</hi> Where he plainly conſures the Jews unbelief, of his Divine extract by a conceſſion of no leſs to their own Rulers. And as the Maſter, ſo have his Schollars (I mean the Divine
+<pb n="12" facs="tcp:65769:9"/>
+Apoſtles, and their ſucceſſors) been always thought to teach.—</p>
+            <p>I am ſure <hi>St: Paul</hi> is direct to our pur<g ref="char:EOLhyphen"/>poſe in that firſt ſentence. <hi>There is no power but of God, and the powers that be,</hi> i. e. the then obtaining powers, though Heatheniſh, are ordained of God; all of them, whether ſupream or ſubordinate; for the ſuperſcrip<g ref="char:EOLhyphen"/>tion is the ſame upon greater and leſſer coin, and to confirmation of this, he abounds with words in <hi>ver.</hi> 1. you have his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as I before hinted in <hi>ver. 2 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ver.</hi> 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>ver.</hi> 6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Nor doth <hi>St. Peter.</hi> contradict this, if rightly underſtood, for when 1 <hi>Ep. 2. ch. 13,</hi> 14. he calls for ſubmiſſion to the King and his Deputies, as to an Ordinance of Man; <hi>Submit your ſelf to every ordinance of man, whether to the king as Supream, or to Governors ſent by him,</hi> &amp;c. This is by no means ſaid exclu<g ref="char:EOLhyphen"/>ſively of God, in their original Inſtitution, as appeareth by the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> annext, <hi>Submit to every Ordinance of man for the Lords ſake.</hi> God is not ſhut out in the main, though there may be an allowance of human skill and policy in the particular rankings and mouldings of civil power, 'tis as if the Apoſtle had ſaid, <hi>Submit your ſelves
+<pb n="13" facs="tcp:65769:9"/>
+to your Governors,</hi> by whatſoever human Model, or Creation, they do hold that Go<g ref="char:EOLhyphen"/>vernment; whether by Natural Inheritance, or Legal Succeſſion, or by election for Life, or for a certain Tearm: for, writing to ſcat<g ref="char:EOLhyphen"/>terd Chriſtians (as in the firſt Verſe of this <hi>Epiſtle</hi>) How could he better accommodate his Diſcourſe? Beſides, <hi>Pareus</hi> himſelf, no forward Man for a <hi>jus divinum</hi> in Civil Au<g ref="char:EOLhyphen"/>thority—fayes, tis here called an Hu<g ref="char:EOLhyphen"/>man Ordinance, or Creation; not caſual<g ref="char:EOLhyphen"/>ly, as if it were deviſed, or brought in on<g ref="char:EOLhyphen"/>ly by the fancy of Men: but either ſubject<g ref="char:EOLhyphen"/>ively, becauſe adminiſtred by Men, or ob<g ref="char:EOLhyphen"/>jectively, becauſe exerciſed—about the concerns of Men; and, from the very word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he picks out a notion of God, becauſe Creation is a work pecuſiarly his.</p>
+            <p>Now I appeale to you, if that which by all manner of Divine Teſtimony, by Old and New Scripture Records, appears to be the product of an Almighty Power and Wiſ<g ref="char:EOLhyphen"/>dom, can be a vain thing. Eſpecially if thereunto we can add rational Evidence, in which this matter is eaſie to be done.</p>
+            <p>For I thus Argue—He that made all things muſt needs have a right to govern all things which he hath made: and, this Ma<g ref="char:EOLhyphen"/>ker
+<pb n="14" facs="tcp:65769:10"/>
+and Governor of all things muſt needs be God, becauſe the Acts of Creation and Providence are accountable to none but a Divine Power: and, if he gave not onely a being, but order to all other parts of the World, how can I reaſonably think he ſhould leave Mankind onely (which is his Maſter<g ref="char:EOLhyphen"/>piece) in a ſtate of confuſion and diſorder, eſpecially when he hath given that Species of his work to a nature infinitely loving and deſiring the contrary.</p>
+            <p>And, as it is thus in power and rule ab<g ref="char:EOLhyphen"/>ſtractly taken, without any modification, ſo 'tis the ſame, as 'tis veſted, either in a Su<g ref="char:EOLhyphen"/>preame, or a Subordinate.</p>
+            <p>As to a Supreame Power—in Rea<g ref="char:EOLhyphen"/>ſon there can be no order, <hi>Sine Relatione ad aliquid primum,</hi> So ſpeaks the <hi>Philoſopher;</hi> which made <hi>Sen. ca</hi> in his Book of <hi>Clemency</hi> uſe this expreſſion, <hi>That even Nature did firſt find out a King.</hi>
+            </p>
+            <p>A Government is like a Circle without a Center—<hi>i. e.</hi> ſomething that hath no being in Nature: 'tis an Utopick, uſſleſs there be in it ſomewhere a Supremacy. If Juſtice cannot be finally done, 'tis not done at all; and that can never be without a Su<g ref="char:EOLhyphen"/>preame, or Center, in which all Lines muſt
+<pb n="15" facs="tcp:65769:10"/>
+meet—All Motions, Queſtions, Ap<g ref="char:EOLhyphen"/>peales, muſt receive a ſtop and determina<g ref="char:EOLhyphen"/>tion: upon which account it is obſervable, that even in thoſe places where there is a ſeeming oppoſition to Kingſhip, and Sove<g ref="char:EOLhyphen"/>raignty, there they cannot avoid it for their hearts; as among the <hi>Lacedaemonians</hi> where the <hi>Ephori</hi> had it in ſpight of their Titular Kings; and among the <hi>Switzers</hi> at this day, where the People have it, for all the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Um<g ref="char:EOLhyphen"/>bratile Magiſtrates: And, in what ſtrange Names it was veſted here, while Monarchy lay a bleeding, moſt of us cannot but ſadly remember. But, you'l ſay; Is there the like reaſon for a Subor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inate Power? I an<g ref="char:EOLhyphen"/>ſwer, Yes: even in the very times of the <hi>Jewiſh Theocracy</hi> ſuch a Power obtained, and was thought requiſite to be put into the hands of Men, that might exerciſe Coerti<g ref="char:EOLhyphen"/>on, and work Deliverance, as Judges, or Lieutenants, in God's ſtead. And, what God thought reaſonable for himſelf, Kings, that are but Men, have all the reaſon in the World to count wiſe for them to imitate. Therefore, in all Ages ſince, this way hath been practiſed, and in the moſt abſolute Go<g ref="char:EOLhyphen"/>vernments. I might Inſtance in <hi>Moſes,</hi> as Extraordinary a Perſon as he was, both in
+<pb n="16" facs="tcp:65769:11"/>
+Commiſſion, and in Ability; yet, not only to alleviate the Government to himſelf, but to facilitate it unto the People, he was fain to admit of Rulers, of 1000 s. of 100 s. and of 10 s. under him <hi>Exod. 18. 18, &amp;c.</hi> but, not to inſiſt upon that, we find after<g ref="char:EOLhyphen"/>ward the Conſtitution of the double <hi>Trium<g ref="char:EOLhyphen"/>virates</hi> under the <hi>Jewiſh Sanhedrim</hi> at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> and alſo the <hi>Proconſuls,</hi> the <hi>Curators,</hi> the <hi>Preſidents</hi> of <hi>Provinces</hi> under the <hi>Roman Empire:</hi> in conſideration whereof we are made to underſtand (by the way) The rea<g ref="char:EOLhyphen"/>ſon of the variety of Terms, Governors come under in the new Teſtament; ſome<g ref="char:EOLhyphen"/>times we have no King but <hi>Caeſar;</hi> and<g ref="char:EOLhyphen"/>ſometimes who but <hi>Herod;</hi> ſometimes we read of <hi>Auguſtus,</hi> and then of his <hi>Tetrarchs;</hi> ſometimes they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Principali<g ref="char:EOLhyphen"/>ties, and other-while <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Powers, one while <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>So the <hi>Greek</hi> Authors expreſs the ſeveral Banks of Magiſtrates in the <hi>Roman Monar<g ref="char:EOLhyphen"/>chy,</hi> meaning, by <hi>Kings,</hi> ſuch as were in the Soveraignty—the <hi>Emperors</hi>—and by <hi>Governors</hi>—All ſubordinate Officers under them.—St. <hi>Paul</hi> runs it thus, <hi>Kings, and all in Authority, 1 Tim.</hi> 2. 2.</p>
+            <p>And otherwiſe then thus it can never be,
+<pb n="17" facs="tcp:65769:11"/>
+unleſs you can ſuppoſe Kings to pertake not only of the Name, but of the Nature of God, not only of his Image, but of his Eſſence—You may give one Sun leave to ſuffice a whole World for Light, becauſe it can ſo eaſily carry it, and convey it through the Univerſe: but, Can you imagine a King that can as well ſerve for an Univerſal Monar<g ref="char:EOLhyphen"/>chy? It muſt be a very ſmall Dominion which a Man can perſonally viſit within the time, which the Sun runs his whole Cir<g ref="char:EOLhyphen"/>cuit: And, if there be a place in the King<g ref="char:EOLhyphen"/>dom, where neither the King is, nor no body for him, judge ye what Rule and Govern<g ref="char:EOLhyphen"/>ment muſt be there? Therefore, by wiſe Speakers, the Sea hath been thought a fitter Emblem of Soveraign Power, than the Sun, becauſe though it be full of Water in it ſelf, yet it is fain to make uſe of certain Streames and Rivers to carry its Waters into the Con<g ref="char:EOLhyphen"/>tinent, whither its ſelf cannot come—And ſo ſtands the reaſon of Subordinate Power, not to rival, or eclipſe and leſſen, but to ho<g ref="char:EOLhyphen"/>nor, ayde, and fulfil the Supream Power.</p>
+            <p>Now, by this time, you have ſeen not on<g ref="char:EOLhyphen"/>ly Rule at large, but as it is veſted in a Su<g ref="char:EOLhyphen"/>pream, and in a ſubordinate Hand, proved by Reaſon as well as Scripture. God and
+<pb n="18" facs="tcp:65769:12"/>
+Nature have given in their Suffrages, and we have a ſaying (<hi>Deus &amp; Natura</hi>) God and Nature never did any thing in vain.</p>
+            <p>
+               <hi>Second</hi> Particular—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Magiſtra<g ref="char:EOLhyphen"/>tical Power is not in vain, neither with refe<g ref="char:EOLhyphen"/>rence to its end; It is not ſomething that might be well enough ſpared, and would not be miſt if it were out of the way, for it ſerves very uſeful and neceſſary purpoſes. Our Apoſtle had ſaid before as much as this comes to, when, in <hi>Verſe</hi> the third, he thus ſpeaks, <hi>Rulers are not a terror to good works, but to the evil:</hi> which expreſſion is well con<g ref="char:EOLhyphen"/>ſtrued by St. <hi>Peter, 1 Epiſt. 2 Chap. 14 v. The Magiſtrate is the Miniſter of God to thee for good;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The Phraſe is ſo com<g ref="char:EOLhyphen"/>prehenſive, and Indefinite, that 'twill poſe us to pitch upon any one kind of good that it doth not fitly tend to. The good of Per<g ref="char:EOLhyphen"/>ſonal, and Relative; of Publick and Pri<g ref="char:EOLhyphen"/>vate Intereſt: the good of our Bodies and Souls; of our Lives, and Fortunes, of our Rights and Liberties, the good of Order and Juſtice, of Peace and Quiet.</p>
+            <p>In a word, whatever is of <hi>Natural, Moral, Civil,</hi> or <hi>Spiritual</hi> benefit and conſequence, may be conceived to have at leaſt its value and ſtabliſhment this way, and if there be any <hi>Spiritual</hi> benefit and conſequence, may be conceived to have at leaſt its value and ſtabliſhment this way, and if there be any
+<pb n="19" facs="tcp:65769:12"/>
+other Notion of Good which upon ſerious conſideration of the innumerable evils of Anarchy, and Lawleſsneſs, doth come into your Mindes, you may juſtly place it to this account. Whole Nations, and Kingdoms, and Common-wealths, and Cities, and Churches, and all Societies of Men, and Millions of ſingle perſons too, (ſo far as un<g ref="char:EOLhyphen"/>biaſt Reaſon and a ſound temper of Mind, doth prevail) are able to give in their ex<g ref="char:EOLhyphen"/>perimental teſtimony to all this—</p>
+            <p>I was fain (I confeſs) to put in that Parentheſis (ſo far as unbiaſt Reaſon, and a ſound temper of Mind doth prevail) with reference to ſingle perſons, becauſe (in the <hi>Chriſtian Church</hi> (more is the Scandal) there hath been diverſe forts of <hi>Anti-Magiſtratical</hi> ſpirits, ſome that have ſought to Fight down all other leſſer Monarchies, with the Intro<g ref="char:EOLhyphen"/>duction of a <hi>Fifth</hi> Great One; which ſome would have <hi>Chriſts,</hi> and ſome his <hi>Vicars.</hi>—Others would diſtinguiſh-down Magiſtracy, by allowing the <hi>Heathen</hi> not the <hi>Chriſtian Magiſtracy;</hi> and alleadging, that now the Sword is a Carnal Weapon, and ought to be laid aſide; and, that the <hi>Chriſtian</hi> ought to be a <hi>Law to himſelf</hi> and n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded not to be in <hi>Subjection,</hi> or <hi>Servitude</hi> to any Man ſince
+<pb n="20" facs="tcp:65769:13"/>
+the <hi>Liberty</hi> obtained for him by <hi>Chriſt</hi>—</p>
+            <p>But, how oppoſite ſoever this ſeems to be to the Doctrine of the uſefulneſs of <hi>Civil Power,</hi> and <hi>State-Government,</hi> I ſhall not need to ſpend time in its Redargution, becauſe it hath more of <hi>Delirium</hi> than <hi>Sound Argument</hi> in it, it falls apieces of it ſelf.—</p>
+            <p>As for that of the Swords being a <hi>Carnal Weapon,</hi> and ſo not uſable under the <hi>Goſpel;</hi> that's onely to be underſtood (I preſume) while its out of their own hands: for, their Deſign is only by this means to get it there, and then they have a Scabbard for it them<g ref="char:EOLhyphen"/>ſelves; but, it ſhall ſleep no longer in it then till ſome <hi>Heretical Prince</hi> or ſuch like Enemy to the <hi>Saints</hi> come in its way. This is not onely verified in the <hi>Sanctify'd Cut-Throats</hi> of <hi>Rome,</hi> but in <hi>John-a-Leydens</hi> Crew a great while agoe; and, in the <hi>Levelling-Party</hi> you know when; and, in another late Rabble of <hi>Engliſh Mammaluks;</hi> and, in a later then that of <hi>Scatch Enthuſiaſts,</hi> which yet might be all the Same Men (for ought I know) but Under ſeveral <hi>Diſguiſes.</hi>
+            </p>
+            <p>As for their <hi>Fifth Monarchy</hi> under King <hi>Jeſus,</hi> 'tis a device quite contrary to <hi>Chriſt's</hi> own aſſertion, who plainly tells us, his Kingdom is not of this World, and how
+<pb n="21" facs="tcp:65769:13"/>
+then can it come into Rank and Order with other worldly Kingdoms, ſo as to be called Fifth or Sixth?</p>
+            <p>As for that of leſs need of Magiſtracy, upon pretence of more Religion ſince Chriſt, ſure God did never deſigne ſuch a preſent perfection ſhould ſuddenly come upon men together with his Goſpel, that all other means of their good, ſhould be neceſſarily ſuperſeded; but the Goſpel of Chriſt was to be the power of God unto mens ſalvation, as bringing a bleſſing upon, and an efficacy into other means which were lawful before, amongſt which, (doubtleſs) this of Civil Government was one, and might therefore keep its ſtanding. Indeed if we could make men, there would be leſs need to make Magiſtrates; but ſtill there would be need too, for when a man is as much a Saint as he can, yet he is not an Angel,—he may do evil and preventing Juſtice is an excellent part of the Magiſtrates Office; but what need I talk at this rate! I would all were honeſt men that call themſelves Saints! You know <hi>Moſes</hi> had a hard taske on't, though moſt of his charge were Church-members..</p>
+            <p>A flock of innocent ſheep muſt have a Shepheard, for tho there be no Wolves in the flock, there may be ſome about it;
+<pb n="22" facs="tcp:65769:14"/>
+and ſome may be crept in too, for ought you and I know; for W olves in Sheeps cloathing you have heard of before now—</p>
+            <p>In fine, as for that ſo much vaunted liber<g ref="char:EOLhyphen"/>ty by Chriſt the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of Antimagiſtra<g ref="char:EOLhyphen"/>tical men (as they conſtrueit) 'tis a plain Lye; Chriſt brought in no ſuch thing as they pretend to. 'Tis a liberty from ſin, but not from Duty: 'Tis a liberty from Luſt, but not from Law: 'Tis a liberty from Satans Tyranny, but not from God's Service. In a word, 'tis pure Liberty, not a Licentiouſneſs that comes in by Chriſt—No man is authoriſed to do what he liſt, but what God and his Miniſters would have him; for all this Liberty by Chriſt, all other bonds of like nature hold, as that of Chil<g ref="char:EOLhyphen"/>dren to Parents; of Servants to Ma<g ref="char:EOLhyphen"/>ſters; of Wives to Husbands; and why ſhould not this of Subjects to their Go<g ref="char:EOLhyphen"/>vernors and Princes do ſo too? 'Tis againſt the Principles, the Profeſſion, I, and the ve<g ref="char:EOLhyphen"/>ry Intereſt of Chriſtianity to think other<g ref="char:EOLhyphen"/>wiſe, as might abundantly be proved, if it were my preſent Province.</p>
+            <p>But I have ſaid enough already in a mat<g ref="char:EOLhyphen"/>ter, to which the ſenſe of all good Chriſti<g ref="char:EOLhyphen"/>ans ſince <hi>Conſtantine,</hi> and the Prayers of all before him do agree. It remains there<g ref="char:EOLhyphen"/>fore
+<pb n="23" facs="tcp:65769:14"/>
+not withſtanding all this Libertine Talk, that I proceed a little tell you, that State-Government is no vain thing, no, not now under the Goſpel: but the beſt Uſes and Ends it always ſerved for, it ſerves for ſtill; and for ſome better than it could ſerve for before; becauſe a Chriſtian, as ſuch, hath a bigger fraught in the ſhip of the Common<g ref="char:EOLhyphen"/>wealth, than any other man, and beſides his Life and Liberty, Safety, Property, Peace, which he hath (by the benefit of the Go<g ref="char:EOLhyphen"/>vernment he lives under) preſerved to him in common with other ſubjects; he hath alſo his Religion ſafe guarded, and defended, and therefore that Government, by which this Jewel (in compariſon whereof, all the other things are but Lumber) is ſecured unto him, muſt needs be of greater ſervice and be<g ref="char:EOLhyphen"/>nefit.</p>
+            <p>The better men are, the more taſte they have of the good of Government, partly, becauſe their intereſt is deareſt, which is pre<g ref="char:EOLhyphen"/>ſerved by it (as I hinted juſt now) and partly, becauſe the miſeries of Anarchy fall heavieſt upon ſuch, being by their practice the more expoſed to envy and miſchief from wicked men, and by their principles more diſarmed from private revenge—</p>
+            <p>
+               <pb n="24" facs="tcp:65769:15"/>But I ſhall not confine my diſcourſe onely to them—take any man in the latitude of a Subject, and if he hath but a ſpark of Rea<g ref="char:EOLhyphen"/>ſon awake in him, that will inſpire him with another ſence of Government then to per<g ref="char:EOLhyphen"/>mit it to be thought a vain thing.</p>
+            <p>'Tis by this that he can ſay any thing is his; that he ſits under his own Vine, and Figtree in quiet; that his Houſe is his Caſtle; That every ſpleenful man is not Maſter of his life; that the Common-wealth is not a Cyclops Den, where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That things are not diſputed amongſt men as amongſt dogs (that is) by the Teeth, and the greater force. That our places are not over-run with Malefactors and Crimi<g ref="char:EOLhyphen"/>nals, which are the worſt ſort of Vermin, and Wild Beaſts; as for example, When there was no King in <hi>Iſrael,</hi> every one did that which was right in his own eyes, (that is) juſt right wrong; every <hi>Micah</hi> had a houſe of God's, and the <hi>Levites</hi> went a begging, and one Tribe went to war with another, to decide that by the longeſt ſword, which a few hours ſerious debate, and reference to publick Juſtice, would have peaceably de<g ref="char:EOLhyphen"/>termined. And as it ſerves thus by way of prevention,—ſo again, 'tis by this that wholſome Laws are made, and executed;
+<pb n="25" facs="tcp:65769:15"/>
+that Juſtice is done; that Peace is preſerved; that Vice is puniſh'd; that Virtue is encou<g ref="char:EOLhyphen"/>raged; that human Society is kept on foot; that we enjoy our ſelves; and that we may ſerve our God. The Apoſtle gives it us in ſhort, that we may live quiet and peaceable lives in all godlineſs and honeſty; 1 <hi>Tim.</hi> 2. 2. And if this can be a vain Invention that ferves to all theſe purpoſes, I am very much miſtaken.—Let us therefore admire it, as a wiſe and gracious proviſion of God, that we have ſuch a Rank and Order of men ſet up amongſt us, as ſhould do all this for us; and be as Fathers of their Countreys, and Shepheards of the People, and Nurſe of the Church, and Heirs of reſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, and God's among men; through whoſe vigilancy all others might ſleep; through whoſe care they might be ſecure; through whoſe pub<g ref="char:EOLhyphen"/>lick employment they might attend their private; ſuch as might be Sanctuaries to the Friendleſs; Treaſuries to the Poor; Shields to the oppreſſed; a Praiſe to them that do Well; and a Terror to Evil-doers.</p>
+            <p>And well is it for the World, that this laſt part of their Office, is in any competent meaſure diſcharged: for 'tis too obvious, that moſt of the Civility, Honeſty, and Re<g ref="char:EOLhyphen"/>ligion too, that is amongſt us, is owing un<g ref="char:EOLhyphen"/>to
+<pb n="26" facs="tcp:65769:16"/>
+it; men generally walk more by ſight than by faith, and the Magiſtrates Halter ſcares more than the Miniſters Hell: and though this reſtraint upon wicked men, by virtue of the Magiſtrates ſword, doth not finally ſave their own ſouls, yet undoubt<g ref="char:EOLhyphen"/>edly it ſaves a great many other folks lives; which is ſo material a conſideration, that with it I will ſhut up the Expoſitory part of my Diſcourſe, and come to Application.</p>
+            <p>Since the Magiſtrates Sword, as it em<g ref="char:EOLhyphen"/>blems<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 1.</note> his Authority, is not in vain, as to its Author or End, neither ought it be in vain, as to its Execution or Effect.</p>
+            <p>It ought not to be in vain in the execution. This is only applicable to the Magiſtrate, and as ſubordinate too; for the making of Laws, and impoſing them—that is the <hi>Poteſtas</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the Legiſlative power is in the Supream—But the exe<g ref="char:EOLhyphen"/>cution of Law, and Adminiſtration of Ju<g ref="char:EOLhyphen"/>ſtice to the people, is the work of the Sub<g ref="char:EOLhyphen"/>alterne Officers and Deputies under him; Give me leave then to be the Rembrancer only of ſuch, that according to the Duty of their places, they would be pleaſed to put the King's Laws into execution, leſt they be thought otherwiſe by God, and the Peo<g ref="char:EOLhyphen"/>ple to bear the ſword in vain.</p>
+            <p>
+               <pb n="27" facs="tcp:65769:16"/>The good of the publick depends much upon ſubordinate means: Let the Kingdom be never ſo well provided of a Wiſe and Gracious Prince, and of good and whole<g ref="char:EOLhyphen"/>ſome Laws, if they that are to be the eyes, hands, and feet of him that is the head, be either lame or blind, how neceſſarily muſt the whole Body ſuffer? And if they that are to be as the Arteries and Veins to convey the Life-Blood of Law and Juſtice through the parts, do not perform their Office, nutri<g ref="char:EOLhyphen"/>tion muſt ceaſe, and conſumption muſt in<g ref="char:EOLhyphen"/>vade, and both will be charged upon that obſtruction.</p>
+            <p>'Tis granted, the King's Authority virtu<g ref="char:EOLhyphen"/>ally extends it ſelf throughout his whole Dominions; but how can it be actually ex<g ref="char:EOLhyphen"/>erted in particular and various places with<g ref="char:EOLhyphen"/>out faithful and diligent Miniſters under him? Let the Lord-Lieutenant in a County, or the Mayor in a City be a <hi>St. George</hi> on a Signe<g ref="char:EOLhyphen"/>poſt, and the people will repreſent the King of the Countrey, but as a King in a Comedy by and by. Let the ſtagnation or ſtop of Ju<g ref="char:EOLhyphen"/>ſtice be in the lower Veſſels,—it preſently redounds to the detriment of the Head, en<g ref="char:EOLhyphen"/>dangers the Body of the Government, and in a little time brings an unprofitableneſs
+<pb n="28" facs="tcp:65769:17"/>
+upon the Ordinance of God; unprofitable<g ref="char:EOLhyphen"/>neſs did I ſay? yea, it perverts it, and makes it ſerve quite contrary ends, than it was in tended for.—If the Magiſtrate be couchant, 'tis ten to one but diſorder and miſrule will be rampant If the Governor be a Log, no wonder if the Frogs and Vermin leap and croak about it Unexecuted Law firſt gives impunity to Vice and conſequently Cou<g ref="char:EOLhyphen"/>rage; for Evils unſuppreſt will ſoon grow in<g ref="char:EOLhyphen"/>ſolent, and in a ſhort time, what was Leave at firſt will come to be Law, and a better Law than the Law it ſelf at laſt. And the face of the Common-wealth, ſhall be (much what as the ſluggards field in <hi>Prov.</hi> 24. 31.) Overgrown with Briars and Thorns, Wormwood and Hemlock, inſtead of thoſe Plants of Renown, Righteouſneſs, and Peace, and Order, and Truth, and Obedience. Gentlemen, I beſeech you, miſtake me not, I am not ſo pragmatick as to go about to teach you your Duty, which muſt needs know better than I, my deſigne is only to mind you of it, and to excite you to dili<g ref="char:EOLhyphen"/>gence, and faithfulneſs in it: you have your Rule before you, the Law of the Land, and that (Bleſſed be God) wiſe for its con<g ref="char:EOLhyphen"/>trivance, ſafe for its end, and uſeful for its effect: 'Tis not medling beyond this your
+<pb n="29" facs="tcp:65769:17"/>
+Rule that I would tempt you to, but act<g ref="char:EOLhyphen"/>ting according to it (I think) is juſtly ex<g ref="char:EOLhyphen"/>pectable at your hands. But ſo much for ge<g ref="char:EOLhyphen"/>neral Uſe; now let me proceed to a modeſt particularity.</p>
+            <p>And Firſt for you Sir, who muſt by and by reſigne up your Sword into another hand, I have but two things to offer to you.</p>
+            <p>Take the beſt care you can that you go off the Stage with as much innocence as you came on: for beſides perſonal faults, there are a ſort of ſins called <hi>Noſtra <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liena,</hi> our o<g ref="char:EOLhyphen"/>ther folks ſins that a year of May oralty may be apt to be charged deeply withal: Give glory to God in the humble confeſſion of them, and crave his pardon, in and through the merits of Jeſus, and what you want of perfection (a thing the beſt come ſhort of) endeavour to make up in your integrity. Be but able to make good <hi>Samuels</hi> cloſe, 1 <hi>Sam 12. 3. Whoſe Ox, or whoſe Aſs have I taken? whom have I defrauded, of whoſe hand have I received any Bribe?</hi> I mean, let but God and your own Conſcience acquit you, and no matter whether the People give their <hi>Plaudite</hi> or no.</p>
+            <p>Moreover, I deſire you Sir to remember, that though you now ceaſe to be a kind of Dictator in this Government, yet you muſt
+<pb n="30" facs="tcp:65769:18"/>
+continue to be Conſul, and though the main Load ſhall be taken off your Shoulders, yet you muſt be willing to lend a hand to the burthen ſtill: And this you have reaſon to eſteem, not only your Honor, but your Happineſs becauſe thereby you have an op<g ref="char:EOLhyphen"/>portunity of playing an after-game, and con<g ref="char:EOLhyphen"/>ſequently of amending what you ſhall ſee a<g ref="char:EOLhyphen"/>miſs in the fore one.</p>
+            <p>But if there be ſo much heed to be taken in an Act of Reſignation, what is there in an Act of Engagement? ſure 'tis an eaſier mat<g ref="char:EOLhyphen"/>ter to ſurrender, than to undertake a Magi<g ref="char:EOLhyphen"/>ſtrates Office.</p>
+            <p>2. To you then Sir, that are our Riſing Sun, let my Speech be next directed.</p>
+            <p>Conſider that you may lawfully take that Sword, which God and Man both put into your hands; and when you are inveſted with your power, uſe it for Gods Honor, the Kings Service, and the peoples benefit.</p>
+            <p>Begin with God and Religion for a Gallio-Magiſtrate, that cares for none of theſe things, is rather to be accounted a Herdſman of Cattel, than a Governor of Chriſtians.—</p>
+            <p>Pray firſt unto God your ſelf, that he that girt you, may bleſs you, and then entitle your ſelf to the Prayers of the Church, by impro<g ref="char:EOLhyphen"/>ving
+<pb n="31" facs="tcp:65769:18"/>
+your Authority to its ſingular advan<g ref="char:EOLhyphen"/>tage. Govern with your Example, as well as with your Sword; and what of evil your Office cannot reach, let your Frown and your Eye ſcatter away—So ſaith <hi>Solomon, A prudent Governor ſcatters away evil with his eyes, Prov.</hi> 20 8. The good example of a Magiſtrate ſeems hugely reaſonable upon his own account, and other folks too: upon his own, becauſe he would hardly puniſh that in another, which he is guilty of himſelf; and ſo he would be tardy in his Office—And then upon others account, becauſe there are a great many people in the world, that look in no other Book but the Lives of their Go<g ref="char:EOLhyphen"/>vernours, and they go either to Heaven or Hell, as they are led by their Superiors.</p>
+            <p>But chiefly, let your power and zeal bend it ſelf againſt thoſe ſins of Swearing, Drun<g ref="char:EOLhyphen"/>kenneſs, Whoredom, and Prophanation of the Lords day, becauſe theſe are crimes grown too modiſh, popular and ſtrong for to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awed by any Church cenſure, or reproof.—And the beſt way for Reformation that I know of in this caſe, is ſtrictly to execute the Laws of the I and againſt them. Finally let that Religion have your conſtant profeſſion and countenance which hath crowned this Nation with ſo many bleſſings, and ſuch de<g ref="char:EOLhyphen"/>liverances
+<pb n="32" facs="tcp:65769:19"/>
+as ſeem almoſt peculiar to it, I mean the Proteſtant Religion, as it is eſtabliſhed in the Church of <hi>England;</hi> and let her publick Worſhip, pure Ordinances, decent Rites, and lawful Miniſters, never fail of your preſence, ſupport, and encouragement.</p>
+            <p>But next to fear God, is Honor the King,<note place="margin">1 <hi>Pet.</hi> 2. 17</note> and this Sir, is as much your Duty, as any private Subjects, yea, and a greater obligation up<g ref="char:EOLhyphen"/>on you: and however your place exalts you above the common Level, yet you muſt own a ſubordination, and accountableneſs to your Sovereign. Though you have an Officer to carry the Sword before you, yet you are your ſelf the Kings Sword-bearer too. Your may have the Show, but he muſt have the Service; you may have the Honor, but he muſt have the Duty of it; or elſe you put the Kings Sword into your ſcabbard, and fight againſt him with his own weapon.</p>
+            <p>Next to God's, and the King's, the peo<g ref="char:EOLhyphen"/>ples Intereſt is worthily conſiderable to you: for Government is not for you that Govern, but for them that are governed; not for pri<g ref="char:EOLhyphen"/>vate, but for publick ends. 'Tis not to fill your own pocket, but to ſhake down the Fruit to them that are underneath; that you are advanced to a high place</p>
+            <p>
+               <pb n="33" facs="tcp:65769:19"/>The Sword you take is by no means an Inſtrument of Particular Favour, or of Per<g ref="char:EOLhyphen"/>ſonal Revenge, but of Common Juſtice; and muſt be Weilded to the Publick Ends of Law and Right, of Defence and Offence, as Caſes happen within the Verge of your Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>You are, Sir, in a diverſe Notion, the Ci<g ref="char:EOLhyphen"/>ties Maſter, and the Cities Servant: as is Ma<g ref="char:EOLhyphen"/>ſter you have a Port allowed you, which it is your wiſdom to keep: for he that deſpi<g ref="char:EOLhyphen"/>ſeth himſelf, is the more eaſily deſpiſed by others—Be not wheadled by any Man out of your Authority, let him appear in what Cloak he will. As the Cities Servant, you have all her juſt Rights, and Priviledges to maintain; and, for your Aſſiſtance, you have many Fellow-Servants equally enga<g ref="char:EOLhyphen"/>ged, whoſe Aid you need not want in their vindication and aſſertion—Sir, I have no more, but as <hi>Michaiah</hi> to <hi>Ahab</hi> (yet without his Irony) <hi>Goe up, and proſper.</hi>
+            </p>
+            <p>
+               <g ref="char:V">Ʋ</g>ſe 2. Let me now ſpeak but one word to the People and I have done.</p>
+            <p>That the Magiſtrate ſhould <hi>not bear the Sword in vain,</hi> by a neglect of his Duty, I have both generally and particularly exhort<g ref="char:EOLhyphen"/>ed: Now, that the People may not make him to do ſo, whether he will or no, I come
+<pb n="34" facs="tcp:65769:20"/>
+to Exhort them, for, they have a way of blunting and dulling the Magiſtrates Sword, let him Whet it, and Weild it never ſo well: And that is, by their Obſtinacy, and Per<g ref="char:EOLhyphen"/>verſneſs, and Reſty Ungovernable Humor.</p>
+            <p>But, Brethren, and Fellow-Citizens, let me hope better things of you. That which in the Deſignation of God, and in its own Nature is ſo uſeful and neceſſary to <hi>Humain Society,</hi> do not you render unprofitable to your ſelves, by a Peeviſh, Crofs, and unſub<g ref="char:EOLhyphen"/>miſſive carriage under it.—Sirs, Do not you treat thoſe Scarlet Robes, as ſome bold Birds will do a Mawkin in a Corn-field; nor contemn that Sword, as if it were but a Lath in a Velvet Scabbard; Do not <hi>deſpiſe Dominion,</hi> or <hi>ſpeak evil of Dignities,</hi> but pre<g ref="char:EOLhyphen"/>ſerve an awe and reverence alwayes upon your Spirits to Publick Authority, as to<g ref="char:EOLhyphen"/>wards an Ordinance of God; and believe it a matter wherein the Publick Welfare, and the Honour of Religion are very much con<g ref="char:EOLhyphen"/>cern'd. Do but ſuffer that Lawful Sword of Government which you live under to have its proper effects upon you—to keep you within due bounds of Order and Soberneſs, and Obedience, and you will thereby very much prevent its <hi>being borne in vain:</hi> you will eaſe your Magiſtrates of a
+<pb n="35" facs="tcp:65769:20"/>
+great part of their burden, and you will gain unto your ſelves the reputation of Loyal Subjects, and true Proteſtants. And now I think on't, this is a new Argument I have to enforce this Duty upon you withal: You ſee at this day the great Cry is againſt <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> and that which moſt juſtly hath made that Religion odious to us, is, the Bitter Op<g ref="char:EOLhyphen"/>poſition it bears to the Government of this Nation, as it is now to remain Refractroy, Ill-natur'd, Diſcontented with, and, in any way (open or ſecret) Rebellious againſt the preſent Government, is plainly to take part with the <hi>Papiſts,</hi> and to help on their Malitious Deſigns againſt us. And, you can no way better approve your ſelves, not only Chriſtians at large, but of the beſt ſort, that is, of the truly Reform'd Stamp, and moſt agreeable to the <hi>Primitive-Chriſtian</hi> Spirit, then by living in Subjection and Obedience to your Supreame, and Superiors in <hi>Church</hi> and <hi>State.</hi> It is too late here to meddle with the ſo much exagitated Queſtion, How far we are to obey Governors? this I am ſure; To pretend Conſcience againſt Obe<g ref="char:EOLhyphen"/>dience, is expreſly againſt St. <hi>Paul's</hi> Do<g ref="char:EOLhyphen"/>ctrine, teaching us <hi>to obey for Conſcience ſake;</hi> and, to Diſobey for Conſcience, in a thing
+<pb n="36" facs="tcp:65769:21"/>
+indifferent, is never to be found in the Books of our Religion.</p>
+            <p>Goe home then, and if you be as you Pro<g ref="char:EOLhyphen"/>feſs, <hi>Chriſtians</hi> and <hi>Proteſtants,</hi> ſhew it not ſo much by your Railery againſt the Pope, as <hi>Antichriſt,</hi> and the <hi>Whore of Babylon,</hi> &amp;c. as by heartily loving and embracing that Church, which he hates and purſues (you ſee) with all his Spight and Spleen; and confeſs at laſt, that that Settlement muſt needs be of God, that hath out-lived ſo ma<g ref="char:EOLhyphen"/>ny <hi>Wars,</hi> and <hi>Conſpiracies,</hi> and <hi>Fires,</hi> and <hi>Swords,</hi> and <hi>Poyſons,</hi> againſt it: and, take it not amiſs if (according to the Charge given to <hi>Titus,</hi> and, in him, to all the Succeſſive Miniſters of the <hi>Goſpel</hi>) I do, upon this oc<g ref="char:EOLhyphen"/>caſion, put you in mind to be <hi>Subject to Prin<g ref="char:EOLhyphen"/>cipalities</hi>
+               <note place="margin">Tit. 3. 1.</note> 
+               <hi>and Powers, and to obey Magiſtrates;</hi> which is nothing elſe, in effect, but to ſtrike in with the beſt Natur'd <hi>King,</hi> the beſt Con<g ref="char:EOLhyphen"/>ſtituted <hi>State,</hi> and the beſt Reformed <hi>Church,</hi> againſt the Worſt ſort of Enemies in the whole World.—</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65769:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
